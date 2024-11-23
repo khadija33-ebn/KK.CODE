@@ -1,0 +1,151 @@
+
+	   <table class="table" bordered="1">  
+	     <tr>  
+	        <th>ID</th>
+	        <th>Reference Expediteur</th>
+	        <th>Reference</th>
+	        <th>Objet</th>
+	        <th>Date de reception</th>
+	        <th>Date ajout</th>
+	        <th>Expediteur / Destinataire</th>
+	        <th>Sous-Expéditeur</th>
+	        <th>Nature</th>
+	        <th>Type</th>
+	        <th>Observation</th>
+	    </tr>
+	  
+	    <tr>  
+	         <td>4</td>  
+	         <td>Els-10s</td>  
+	         <td>Ek01</td>  
+	         <td>Demande</td>  
+	         <td>2020-02-06</td>
+	         <td>2020-02-04</td>
+	         <td>Oussama</td>
+	         <td>Abdelilah</td>
+	         <td>Personnelle</td>
+	         <td>Entrant</td>
+	         <td>Demande</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>31</td>  
+	         <td>uu-10</td>  
+	         <td>hh_5</td>  
+	         <td>objet</td>  
+	         <td>2020-02-15</td>
+	         <td>2020-02-05</td>
+	         <td>Abdelilah</td>
+	         <td>Brahim</td>
+	         <td>Personnelle</td>
+	         <td>Entrant</td>
+	         <td>objet</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>43</td>  
+	         <td>029 A2S</td>  
+	         <td>122</td>  
+	         <td>Réunion</td>  
+	         <td>2022-09-01</td>
+	         <td>2022-09-01</td>
+	         <td>Departement informatique</td>
+	         <td>Mohamed</td>
+	         <td>Professionnelle</td>
+	         <td>Entrant</td>
+	         <td>lettre de motivation</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>44</td>  
+	         <td>A1332</td>  
+	         <td>az12</td>  
+	         <td>DEMANDE</td>  
+	         <td>2022-09-05</td>
+	         <td>2022-09-03</td>
+	         <td>Zerhouni</td>
+	         <td>ELBACHIRI</td>
+	         <td>Administrative</td>
+	         <td>Entrant</td>
+	         <td></td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>45</td>  
+	         <td>9AS</td>  
+	         <td>sZ</td>  
+	         <td>Job</td>  
+	         <td>2022-09-13</td>
+	         <td>2022-09-20</td>
+	         <td>Hicham</td>
+	         <td>Karim</td>
+	         <td>Personnelle</td>
+	         <td>Sortant</td>
+	         <td>ss</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>46</td>  
+	         <td>23</td>  
+	         <td>2</td>  
+	         <td>DF HSJ</td>  
+	         <td>2022-09-22</td>
+	         <td>2022-09-12</td>
+	         <td>dz</td>
+	         <td>DE</td>
+	         <td>Personnelle</td>
+	         <td>Entrant</td>
+	         <td>dr</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>47</td>  
+	         <td>12</td>  
+	         <td>23</td>  
+	         <td>Lettre Urgent</td>  
+	         <td>2022-09-13</td>
+	         <td>2022-09-14</td>
+	         <td>ELB</td>
+	         <td>Med</td>
+	         <td>Administrative</td>
+	         <td>Entrant</td>
+	         <td>Qelqe remarque Optimisation</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>48</td>  
+	         <td>1213</td>  
+	         <td>32</td>  
+	         <td>ZERT</td>  
+	         <td>2022-09-22</td>
+	         <td>2022-09-23</td>
+	         <td>GRH</td>
+	         <td>Soukaina</td>
+	         <td>Administrative</td>
+	         <td>Entrant</td>
+	         <td>Fin de Stage</td>
+					        
+	    </tr>
+	   
+	    <tr>  
+	         <td>335</td>  
+	         <td>12</td>  
+	         <td>2s34</td>  
+	         <td>dAZZ</td>  
+	         <td>2022-10-11</td>
+	         <td>2022-10-12</td>
+	         <td>ED</td>
+	         <td>ELBACHIRI</td>
+	         <td>Administrative</td>
+	         <td>Entrant</td>
+	         <td>FF</td>
+					        
+	    </tr>
+	   </table> 
